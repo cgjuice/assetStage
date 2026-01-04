@@ -1,6 +1,7 @@
 # Asset Stage
 
-*Video tutorial coming soon*
+### [Watch how it works on YouTube](https://youtu.be/f8vVlS8nslc)
+[![Watch the video](https://img.youtube.com/vi/f8vVlS8nslc/maxresdefault.jpg)](https://youtu.be/f8vVlS8nslc)
 
 
 
@@ -35,6 +36,11 @@ The tool can be found in the 3D Viewport Sidebar (N-Panel) under the **Asset Sta
 2.  Click **Generate Studio**.
 3.  The tool will automatically place the camera, lights, and backdrop tailored to the size of your object.
 
+### Turntable
+1.  Select your object.
+2.  Click **Make 360° Animation**.
+3.  If needed, adjust the duration (Seconds) and click **Fix Frame Range** to set the timeline for a perfect loop.
+
 ### Wireframes (Topology Presentation)
 1.  Select your object.
 2.  Choose a preset (**Dark** or **Light**) to apply the overlay.
@@ -47,10 +53,9 @@ The tool can be found in the 3D Viewport Sidebar (N-Panel) under the **Asset Sta
 3.  Use the sliders to adjust the **Ambient Occlusion** distance and contrast to highlight crevices.
 4.  Click **Restore** to return to your original materials.
 
-### Turntable
-1.  Select your object.
-2.  Click **Make 360° Animation**.
-3.  If needed, adjust the duration (Seconds) and click **Fix Frame Range** to set the timeline for a perfect loop.
+> 💡 **Quick Tip**  
+> If this is your first time using AO shaders in Blender, you might see a **"Compiling Render Kernels"** message.  
+> This is a standard one-time optimization by Blender—just give it a moment!
 
 ### Rendering
 1.  Select your Quality (SD, HD, 4K...).
